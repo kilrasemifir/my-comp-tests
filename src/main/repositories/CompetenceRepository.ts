@@ -1,5 +1,7 @@
 import { Competence } from "../entities/Competence";
 
 export interface CompetenceRepository{
-    sauvegarder(competence:Competence):Promise<Competence>
+    sauvegarder(competence:Competence):Promise<Competence>;
+    recherche(id:string):Promise<Competence>;
+    rechercherTous:()=>Promise<Competence[]>
 }

@@ -50,3 +50,16 @@ export const kubernetes: Competence = {
 }
 
 export const listComp = [java, spring, shell, docker, kubernetes]
+
+export const utilisateur = {nom:"Do", prenom:"John"}
+export const utilisateurListe = [
+    {_id:"1",nom:"Do", prenom:"John"},
+    {_id:"2",nom:"Da", prenom:"John"},
+    {_id:"3",nom:"Du", prenom:"John"},
+    {_id:"4",nom:"Di", prenom:"John"},
+    {_id:"5",nom:"Dé", prenom:"John"},
+    {_id:"6",nom:"Do", prenom:"Martin"},
+    {_id:"7",nom:"Do", prenom:"Jean"},
+    {_id:"8",nom:"Do", prenom:"Rodrigez"},
+    {_id:"9",nom:"Do", prenom:"Scott"}
+]

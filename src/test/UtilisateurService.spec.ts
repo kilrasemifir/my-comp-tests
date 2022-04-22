@@ -1,4 +1,3 @@
-import { exec } from "child_process";
 import { UtilisateurRepository } from "../main/repositories/UtilisateurRepository"
 import { UtilisateurService } from "../main/services/UtilisateurService"
 import { utilisateur, utilisateurListe } from "./data";

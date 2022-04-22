@@ -23,7 +23,12 @@
     "url": "https://github.com/kilrasemifir/ts-starter/issues"
   },
   "homepage": "https://github.com/kilrasemifir/ts-starter#readme",
-  "dependencies": {},
+  "dependencies": {
+    "@cucumber/cucumber": "^8.1.2",
+    "@types/express": "^4.17.13",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.21",
     "@types/node": "^14.0.1",

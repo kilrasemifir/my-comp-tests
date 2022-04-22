@@ -63,3 +63,15 @@ export const utilisateurListe = [
     {_id:"8",nom:"Do", prenom:"Rodrigez"},
     {_id:"9",nom:"Do", prenom:"Scott"}
 ]
+
+export const uListeSave = [
+    {nom:"Do", prenom:"John"},
+    {nom:"Da", prenom:"John"},
+    {nom:"Du", prenom:"John"},
+    {nom:"Di", prenom:"John"},
+    {nom:"Dé", prenom:"John"},
+    {nom:"Do", prenom:"Martin"},
+    {nom:"Do", prenom:"Jean"},
+    {nom:"Do", prenom:"Rodrigez"},
+    {nom:"Do", prenom:"Scott"}
+]
